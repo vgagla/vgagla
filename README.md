@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 I am a technology professional with over 20 years of experience in the software industry, specializing in DevOps, cloud infrastructure, and devsecops. I enjoy building scalable systems, automating infrastructure, and improving software delivery through modern DevOps practices.
 
 My focus areas include Kubernetes platforms, CI/CD pipelines, infrastructure automation, observability, and secure cloud architectures.
