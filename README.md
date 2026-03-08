@@ -25,13 +25,13 @@ My focus areas include Kubernetes platforms, CI/CD pipelines, infrastructure aut
 Azure • AWS • Kubernetes • Docker
 
 ### DevOps & Automation
-Terraform • Helm • GitHub Actions • GitLab CI • Jenkins
+Terraform • Helm • GitHub Actions • Jenkins
 
 ### Monitoring & Observability
 Prometheus • Grafana • Loki • ELK
 
 ### Programming
-Python • Bash • Go (learning)
+Python • Bash • Powershell
 
 ### Security
 DevSecOps • Secure CI/CD • Container Security
@@ -71,7 +71,6 @@ Terraform-based infrastructure provisioning with automated CI/CD pipelines.
 - Platform Engineering
 - Cloud Architecture
 - DevSecOps
-- AI Infrastructure
 - Distributed Systems
 - Observability
 
