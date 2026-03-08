@@ -1,8 +1,5 @@
-# Hi 👋 I'm Vijaya Bhaskar Gagla
-
-Senior DevOps Engineer | Platform Engineering | Cloud Infrastructure | DevSecOps
-
-I am a technology professional with over 20 years of experience in the software industry, specializing in DevOps, cloud infrastructure, and secure platform operations. I enjoy building scalable systems, automating infrastructure, and improving software delivery through modern DevOps practices.
+👨‍💻 About Me
+I am a technology professional with over 20 years of experience in the software industry, specializing in DevOps, cloud infrastructure, and devsecops. I enjoy building scalable systems, automating infrastructure, and improving software delivery through modern DevOps practices.
 
 My focus areas include Kubernetes platforms, CI/CD pipelines, infrastructure automation, observability, and secure cloud architectures.
 
@@ -25,10 +22,10 @@ My focus areas include Kubernetes platforms, CI/CD pipelines, infrastructure aut
 Azure • AWS • Kubernetes • Docker
 
 ### DevOps & Automation
-Terraform • Helm • GitHub Actions • Jenkins
+Terraform • GitHub Actions • Jenkins
 
 ### Monitoring & Observability
-Prometheus • Grafana • Loki • ELK
+Prometheus • Grafana • Loki
 
 ### Programming
 Python • Bash • Powershell
