@@ -58,7 +58,7 @@ Tech:
 ---
 
 ### Kubernetes Observability Stack
-Monitoring stack for Kubernetes clusters using Prometheus, Grafana, and Loki to provide metrics, logs, and dashboards.
+Monitoring stack for Kubernetes clusters using Cloud Watch, Prometheus, Grafana, and Loki to provide metrics, logs, and dashboards.
 
 ---
 
