@@ -38,10 +38,17 @@ DevSecOps • Secure CI/CD • Container Security
 ## 📂 Featured Projects
 
 ### MLOps GPT-2 Pipeline
-End-to-end MLOps pipeline that automatically fine-tunes GPT-2 models using uploaded PDF documents and deploys them to Kubernetes.
-
+End-to-end Multi-Stack microservices application build, test and deployment to Kubernetes with monitoring and alerts.
 Tech:
-Python • HuggingFace • Kubernetes • Docker • FastAPI • Prometheus
+Python • .Net • Node.js • PostgreSQL • Redis • Docker • AWS Kubernetes Service • Github-Actions • Cloud Watch
+
+End-to-end MLOps pipeline that automatically fine-tunes GPT-2 models using uploaded PDF documents and deploys them to Kubernetes.
+Tech:
+Python • HuggingFace • FastAPI • Docker • Azure Kubernetes Service • Data Factory Pipeline • Github-Actions • Prometheus • Grafana • Loki 
+
+End-to-end 3-tier application build, test and delpoyment to Kubernetes.
+Tech:
+.Net • JavaScript • Kubernetes • Docker • Jenkins • Cloud Watch
 
 ---
 
