@@ -25,7 +25,7 @@ Azure • AWS • Kubernetes • Docker
 Terraform • GitHub Actions • Jenkins
 
 ### Monitoring & Observability
-Prometheus • Grafana • Loki
+Cloud Watch • Prometheus • Grafana • Loki
 
 ### Programming
 Python • Bash • Powershell
